@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anand 👋</h1>
-<h3 align="center">Full Stack Developer | Embedded Systems Enthusiast | EEE Student</h3>
+<h3 align="center">Full Stack Developer | Embedded Systems Enthusiast | ECE Student</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/anand-b-18653b37b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -14,7 +14,6 @@
 - 🎓 B.E. in Electrical, Electronics and Communications Engineering @ Dayananda Sagar College of Engineering, Bengaluru (2023–2027)
 - 💻 I build full-stack web applications and love tinkering with embedded systems / IoT on the side
 - 🔭 Currently exploring backend architecture with **Node.js**, **Express**, and **PostgreSQL**
-- ⚡ Fun fact: I've combined web dev and hardware — building a Wi-Fi connected smart chessboard that lights up your next move!
 - 📫 Reach me at **anandbkkd@gmail.com**
 
 ---
